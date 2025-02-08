@@ -1,0 +1,9 @@
+numpy
+langchain
+sentence-transformers
+supabase
+python-dotenv
+flask
+flask-restful
+tf-keras
+openai
